@@ -18,7 +18,7 @@
 ## Gameplay Demonstration
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/7a91a4aa-b39d-4cb5-b02d-012592cd57ca" controls width="100%"></video>
+  <video src="https://github.com/user-attachments/assets/7a91a4aa-b39d-4cb5-b02d-012592cd57ca](https://github.com/user-attachments/assets/1520d678-4260-4adf-a99c-d2c22d4a9913" controls width="100%"></video>
 </div>
 
 ---
