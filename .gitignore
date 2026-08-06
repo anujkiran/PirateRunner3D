@@ -1,0 +1,33 @@
+# Unity gitignore
+[aA]sset/[mM]eta
+[aA]sset/[mM]eta.meta
+/[lL]ibrary/
+/[tT]emp/
+/[oO]bj/
+/[bB]uild/
+/[bB]uilds/
+/[lL]ogs/
+/[uU]ser[sS]ettings/
+/[mM]emoryCaptures/
+
+# Visual Studio / VS Code
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
